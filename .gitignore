@@ -40,3 +40,7 @@ auth.json
 
 # 其他
 Trash/
+*.pdf
+Resources/
+Scratch/
+More/
